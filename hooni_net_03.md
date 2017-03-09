@@ -4,3 +4,4 @@
 ## 이진수 게산 그 첫번째
 ## 이진수 계산 그 두번째
 * DHCP 서버
+![](https://github.com/hjkim170228/NET_STUDY/tcpipstack.gif)
